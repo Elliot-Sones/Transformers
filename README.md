@@ -1,7 +1,6 @@
 # Machine Translation with transformer model:
 ### [A reflective guide to "All You Need Is Attention" paper](https://arxiv.org/abs/1706.03762)
 
-
 In 2017, the paper “Attention Is All You Need” fundamentally transformed the field of natural language processing by introducing the Transformer architecture. This breakthrough laid the foundation for the large language models that dominate today’s AI landscape.
 
 Originally, the Transformer model was designed for machine translation, using an encoder–decoder architecture powered entirely by attention mechanisms. Although modern large language models have evolved into decoder-only architectures, the original Transformer remains the core foundation of nearly all current models.
