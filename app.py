@@ -366,11 +366,7 @@ def create_interface():
         
         This app demonstrates the three major Transformer architectures:
         
-        | Architecture | Tab | Task |
-        |--------------|-----|------|
-        | **Encoder-only** | 🎭 Emotion | Classify text emotions |
-        | **Decoder-only** | 📜 Shakespeare | Generate creative text |
-        | **Encoder-Decoder** | 🇫🇷 Translation | Translate EN → FR |
+
         """, elem_classes="header-text")
         
         with gr.Tabs():
