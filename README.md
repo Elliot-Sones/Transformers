@@ -1,11 +1,33 @@
 
 # Machine Translation with transformer model:
 [Test the decoder, Encoder and machine translator here!](https://huggingface.co/spaces/Eli181927/Transformer_Demo)
-<p align="center">
-  <img src="encoder.gif" width="32%" />
-  <img src="decoder.gif" width="32%" />
-  <img src="machine_translation.gif" width="32%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="encoder.gif" width="900%">
+      <br>
+      Emotion analysis
+    </td>
+    <td align="center" width="50%">
+      <img src="decoder.gif" width="100%">
+      <br>
+      Shakespeare generator
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="60%">
+      <img src="machine_translation.gif" width="100%">
+      <br>
+      Machine translation
+    </td>
+  </tr>
+</table>
+
 
 ### [A reflective guide to "All You Need Is Attention" paper](https://arxiv.org/abs/1706.03762)
 
