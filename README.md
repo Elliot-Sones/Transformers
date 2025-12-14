@@ -1,3 +1,14 @@
+---
+title: Transformer Demo
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 5.9.1
+app_file: app.py
+pinned: false
+---
+
 # Machine Translation with transformer model:
 ### [A reflective guide to "All You Need Is Attention" paper](https://arxiv.org/abs/1706.03762)
 
