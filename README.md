@@ -1,15 +1,12 @@
----
-title: Transformer Demo
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.9.1
-app_file: app.py
-pinned: false
----
 
 # Machine Translation with transformer model:
+[Test the decoder, Encoder and machine translator here!](https://huggingface.co/spaces/Eli181927/Transformer_Demo)
+<p align="center">
+  <img src="encoder.gif" width="32%" />
+  <img src="decoder.gif" width="32%" />
+  <img src="machine_translation.gif" width="32%" />
+</p>
+
 ### [A reflective guide to "All You Need Is Attention" paper](https://arxiv.org/abs/1706.03762)
 
 In 2017, the paper “Attention Is All You Need” fundamentally transformed the field of natural language processing by introducing the Transformer architecture. This breakthrough laid the foundation for the large language models that dominate today’s AI landscape.
